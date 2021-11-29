@@ -11,7 +11,7 @@ Original file is located at
 
 import numpy as np
 from matplotlib import pyplot as plt
-from tqdm import tqdm
+import tqdm
 import time
 from scipy.optimize import curve_fit
 import networkx as nx
